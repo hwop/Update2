@@ -79,7 +79,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Just don't Change it, It already perfectly done by op romeo",
-        "value": "https://github.com/Romeo99xD/Update2",
+        "value": "https://github.com/hwop/Update2",
         "required": true
       },
       "UPSTREAM_BRANCH": {
